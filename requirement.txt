@@ -1,0 +1,7 @@
+sanic
+sanic-restplus
+sanic_cors
+sanic-plugins-framework
+
+tortoise-orm
+aiosqlite
